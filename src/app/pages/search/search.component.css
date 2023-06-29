@@ -1,0 +1,18 @@
+button
+{
+  background-color:rgb(138, 33, 33);
+  color: #ffffff;
+}
+
+button:hover
+{
+  background-color:rgb(138, 33, 33);
+  color: #ffffff;
+}
+ img{
+  width: 100%;
+  cursor: pointer;
+ }
+h5{
+  color: #ffffff;
+}

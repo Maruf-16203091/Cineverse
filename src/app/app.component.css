@@ -1,0 +1,8 @@
+.navbar .navbar-brand {
+  color: rgb(138, 33, 33);
+  font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: rgb(138, 33, 33);
+}
